@@ -14,9 +14,8 @@ ProjectHub is a comprehensive academic project lifecycle management platform des
 
 ---
 
-### 🌐 Live Platform Deployment & Links
-- **🚀 Live Deployed Web App**: [https://student-project-tracker-zeta.vercel.app/](https://student-project-tracker-zeta.vercel.app/)
-- **📦 GitHub Repository**: [https://github.com/gitabi14/Student-Project-Tracker.git](https://github.com/gitabi14/Student-Project-Tracker.git)
+### 🌐 GitHub Repository
+- **📦 GitHub Repository**: [https://github.com/abishekrr131/STUDENT_PROJECT_REPOSITORY_FORGEHACKS](https://github.com/abishekrr131/STUDENT_PROJECT_REPOSITORY_FORGEHACKS)
 
 </div>
 
@@ -107,8 +106,8 @@ The platform features instant role-switching via searchable selectors populated 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/gitabi14/Student-Project-Tracker.git
-cd Student-Project-Tracker
+git clone https://github.com/abishekrr131/STUDENT_PROJECT_REPOSITORY_FORGEHACKS.git
+cd STUDENT_PROJECT_REPOSITORY_FORGEHACKS
 ```
 
 ### 2. Install Dependencies
