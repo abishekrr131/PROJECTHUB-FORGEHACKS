@@ -15,7 +15,7 @@ ProjectHub is a comprehensive academic project lifecycle management platform des
 ---
 
 ### 🌐 GitHub Repository
-- **📦 GitHub Repository**: [https://github.com/abishekrr131/STUDENT_PROJECT_REPOSITORY_FORGEHACKS](https://github.com/abishekrr131/STUDENT_PROJECT_REPOSITORY_FORGEHACKS)
+- **📦 GitHub Repository**: [https://github.com/abishekrr131/PROJECTHUB-FORGEHACKS](https://github.com/abishekrr131/PROJECTHUB-FORGEHACKS)
 
 </div>
 
@@ -106,8 +106,8 @@ The platform features instant role-switching via searchable selectors populated 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/abishekrr131/STUDENT_PROJECT_REPOSITORY_FORGEHACKS.git
-cd STUDENT_PROJECT_REPOSITORY_FORGEHACKS
+git clone https://github.com/abishekrr131/PROJECTHUB-FORGEHACKS.git
+cd PROJECTHUB-FORGEHACKS
 ```
 
 ### 2. Install Dependencies
